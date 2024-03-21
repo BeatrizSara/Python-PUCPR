@@ -1,5 +1,5 @@
 """ 
-Exemplo de aplicação 1: Crie um algoritmo que peça para que o usuário digite um número. 
+Exemplo de aplicação 1: Crie um algoritmo que peça para que o usuário digite um número.
 Se o número for par, então mostre na tela uma mensagem chamada “Este número é par”.
 """
 
