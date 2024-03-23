@@ -1,4 +1,5 @@
 """ 
+Seleção Simples
 Exemplo de aplicação 2: Elabore um programa que solicite ao usuário as notas de determinada disciplina escolar e calcule a média. 
 Se a média for maior ou igual a 7, deve mostrar que o estudante foi aprovado. Vamos pensar em um exemplo direto em Python? 
 Sugiro que você tente implementar por si só, e somente depois consultar a resposta aqui embaixo.
