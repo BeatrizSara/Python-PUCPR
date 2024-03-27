@@ -16,7 +16,7 @@ media = (nota_1+nota_2+nota_3+nota_4) / 4
 # Informa a media da disciplina do usuario
 print(f"A média da disciplina {disciplina} é {media:.2f}")
 
-""" 
+"""
 Entrada: Nome de uma disciplina e notas bimestrais
 
 Saída:  Nome da disciplina 
