@@ -19,7 +19,7 @@ print(f"A média da disciplina {disciplina} é {media:.2f}")
 """
 Entrada: Nome de uma disciplina e notas bimestrais
 
-Saída:  Nome da disciplina 
+Saída:  Nome da disciplina
         Média da disciplina
 
 Passos:
