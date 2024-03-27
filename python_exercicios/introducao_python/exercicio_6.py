@@ -8,7 +8,7 @@ quantidade_compra = int(input("Informa a quantidade do produto: "))
 valor_total = (valor_produto * quantidade_compra) * 0.15
 
 """ 
-Entrada: 
+Entrada:
 Valor do produto
 Quantidade da compra
 
