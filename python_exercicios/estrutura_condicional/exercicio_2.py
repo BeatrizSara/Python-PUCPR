@@ -7,8 +7,3 @@ nome_cliente = str(input("informe o nome para ser inserido no cartao de crédito
 
 if len(nome_cliente) > 20:
     print("O nome é extenso demais. Deve ser abreviado")
-    nome_abreviado = nome_cliente[:20] # Pegara os primeiros 20 caracteres
-    print(f"Nome abreviado: {nome_abreviado}")
-
-else:
-    print("Nome inserido", nome_cliente)
