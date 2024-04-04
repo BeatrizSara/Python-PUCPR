@@ -13,8 +13,9 @@ nota_4 = float(input("Nota 4º bimestre: "))
 
 faltas = int(input("Informe o número de faltas: "))
 media_anual  = (nota_1 + nota_2 + nota_3 + nota_4)/ 4
-presenca = (40 - faltas) / 40*100
-
+presenca = (40 - faltas) / 40*100 # (40 - faltas ) é para verificar quantas faltas o aluno teve dentro da disciplina que possui 40 aulas 
+                                # /40 * ... Essa divisão calcula a proporção de aulas frequentadas em relação ao total de aulas.
+                                #/ .. * 100: Por fim, o resultado da divisão é multiplicado por 100 para obter a porcentagem de presença do aluno.
 if media_anual >= 7.0 and presenca >= 7.5:
     if (40 - faltas) >= 0.75 * 40:
         print("Aluno Aprovado")
