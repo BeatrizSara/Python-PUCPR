@@ -26,7 +26,7 @@ os.system("cls")
 saque  = float(input("Qual o valor do saque: "))
 #Inicia número de notas em zero
 n1=n5=n10=n50=n100 =  0
-os.system("cls") 
+os.system("cls")
 if saque < 10  or saque > 600:
     print("Infelizmente o valor informado é inválido")
     print("Deve informar um valor entre R$10,00 e R$600,00")
