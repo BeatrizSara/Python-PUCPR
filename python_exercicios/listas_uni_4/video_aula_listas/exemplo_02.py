@@ -17,8 +17,6 @@ print(frutas) # Ele vai ordenar aquela lista - ordem alfabetica por ser string
 # sorted(frutas)  # outra forma de fazer isso tbm é com sorted: 
 # frutas.sort()   # para ordenar a lista - ele ordena ja dentro dela, 
                 
-
-
 frutas.reverse() # Vai inverter os elementos da lista. Tal como ela esta agora.
 print(frutas)    # Vai inverter a lista que ficou na ordem alfabetica abc
                  # Ficando: ['melão', 'melancia', 'maça', 'laranja', 'banana', 'Abacaxi']
