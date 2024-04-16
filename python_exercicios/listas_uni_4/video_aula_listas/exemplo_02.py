@@ -13,7 +13,6 @@ print(frutas) # Ele vai ordenar aquela lista - ordem alfabetica por ser string
               # entao nao precisa fazer -> frutas = frutas.sort()
               # ['Abacaxi', 'banana', 'laranja', 'maça', 'melancia', 'melão']
 
-
 # sorted(frutas)  # outra forma de fazer isso tbm é com sorted: 
 # frutas.sort()   # para ordenar a lista - ele ordena ja dentro dela, 
                 
@@ -26,4 +25,3 @@ print(frutas)
 
 frutas.append("framboesa") # O append vai incluir mais um elemento na lista
 print(frutas)
-
