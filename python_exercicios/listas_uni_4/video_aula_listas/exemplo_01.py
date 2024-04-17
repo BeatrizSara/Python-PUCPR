@@ -1,5 +1,4 @@
 # Acessar os elemtentos de uma lista/vetor
-
 frutas = ["banana", "maça", "laranja", "melão", "Abacaxi", "melancia"]
 # Consegue acessar cadacelemento, informando qual indice eu gostaria de acessar
 print(frutas[0]) # Acessar o primeiro elemento
