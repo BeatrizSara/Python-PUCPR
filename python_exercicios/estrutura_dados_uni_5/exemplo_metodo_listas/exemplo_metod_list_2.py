@@ -2,7 +2,6 @@
 Exemplo:
 lista de compras - tem varios itens
 Para cada item  na lista de compras por exemplo
-
 NÃO PODE -  Nao misture tipos de dados dentro de uma única lista
 
 """
