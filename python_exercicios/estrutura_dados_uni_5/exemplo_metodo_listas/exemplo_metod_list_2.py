@@ -3,7 +3,6 @@ Exemplo:
 lista de compras - tem varios itens
 Para cada item  na lista de compras por exemplo
 NÃO PODE -  Nao misture tipos de dados dentro de uma única lista
-
 """
 # len() para ver a quantidade de elementos na lista - pode ser uma função, um método muito útil
 frutas = ["banana", "maçã", "laranja"]
