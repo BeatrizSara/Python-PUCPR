@@ -1,5 +1,4 @@
 """ Exemplo de aplicação 8: Elabore um programa que faça uso de uma tupla chamada Endereco, contendo dados nomeados."""
-
 from collections import namedtuple
 
 endereco = namedtuple("Endereço", ["logadouro", "numero", "bairro", "cidade", "estado"])
