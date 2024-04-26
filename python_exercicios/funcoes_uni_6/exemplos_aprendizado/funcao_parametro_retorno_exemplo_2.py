@@ -1,5 +1,5 @@
 """
-Parte 2.
+Parte 2
 Bom, além do código ficar longo temos um outro problema: repetir esta lógica do cálculo do IMC em 
 três lugares diferentes leva a erros e dificuldade de manutenção. Se quiséssemos mudar qualquer 
 coisa dentro daqueles loops que calculam o IMC, o precisaríamos fazer ao menos três vezes. 
