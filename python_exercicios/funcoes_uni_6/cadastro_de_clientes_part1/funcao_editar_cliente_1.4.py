@@ -18,7 +18,6 @@ def editar_cliente(clientes):
 
     return clientes
 
-
 # Aqui está o que cada linha de código faz:
 
 # def editar_cliente(clientes): Isto define a função editar_cliente que aceita um único argumento clientes. 
