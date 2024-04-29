@@ -20,8 +20,6 @@ Dito isso, veja e teste esta implementação. Veja que ela não possui funções
 
 """
 clientes = []
-
-
 while True:
     print("\nMenu:")
     print("1. Inserir clientes")
