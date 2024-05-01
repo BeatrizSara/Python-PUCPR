@@ -5,7 +5,6 @@ Esta é uma função com parâmetros e com retorno. O código define uma funçã
 inserir_cliente que recebe uma lista de clientes como argumento. 
 O objetivo da função é adicionar um novo cliente a essa lista.
 """
-
 def inserir_cliente(clientes):
     nome = input("Insira o nome do cliente: ")
     clientes.append(nome)
