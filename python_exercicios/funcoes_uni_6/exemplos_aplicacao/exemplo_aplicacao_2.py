@@ -1,5 +1,4 @@
 """ 
-
 Exemplo de aplicação 2: Elabore um programa que cadastre contatos de uma agenda telefônica. 
 A função de cadastro deve ser realizada dentro de uma função chamada inserir, que recebe como 
 parâmetros o nome e o telefone do contato, bem como a agenda de contatos. A função deve verificar 
