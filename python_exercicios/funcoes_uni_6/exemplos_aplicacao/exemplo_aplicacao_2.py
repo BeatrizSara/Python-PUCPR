@@ -5,7 +5,6 @@ parâmetros o nome e o telefone do contato, bem como a agenda de contatos. A fun
 se o contato já existe e, em caso positivo, perguntar se o telefone deve ser modificado, retornando 
 true ou false, de acordo com a inclusão/modificação executada ou não na agenda.
 """
-
 agenda_telefonica = {}
  
 def inserir(nome, telefone, agenda):
