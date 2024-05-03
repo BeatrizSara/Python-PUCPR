@@ -1,4 +1,5 @@
-"""Como declarar uma lista []
+"""
+Como declarar uma lista []
 Exemplo:
 lista de compras - tem varios itens
 Para cada item  na lista de compras por exemplo
