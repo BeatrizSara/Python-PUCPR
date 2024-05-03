@@ -1,7 +1,6 @@
 """ 
-
+Manipulando arquivos
 """
-
 with open("dados.txt", "w") as arquivo:
     arquivo.write("Counter-Strike é melhor do que Valorant.")
     arquivo.write("O correto é 'bolacha'.")
@@ -30,3 +29,19 @@ with open("dados.txt", "r") as arquivo:
     linhas = arquivo.readlines()
 
     print(linhas)
+    
+""" 
+Vamos analisar este código:
+
+1. with open("dados.txt", "r") as arquivo::Aqui, voltamos a usar a palavra-chave with para abrir o arquivo. A diferença em relação ao exemplo anterior é a de que estamos usando o modo de leitura ("r"). 
+Isso permite que possamos ler (ao invés de escrever) o conteúdo do arquivo. A variável arquivo é associada ao arquivo aberto.
+
+    1. linhas = arquivo.readlines():  Nesta linha, estamos chamando o método readlines() na variável arquivo. Esse método lê todas as linhas do arquivo e retorna uma lista de strings, onde cada elemento 
+    da lista representa uma linha do arquivo. Essa lista é atribuída à variável linhas.
+
+    2. print(linhas): Por fim, estamos utilizando a função print() para exibir o conteúdo da lista linhas, ou seja, todas as linhas do arquivo.
+
+O resultado disso será ["Counter-Strike é melhor do que Valorant.O correto é 'bolacha'."]
+    3. O bloco with é encerrado e, automaticamente, o arquivo é fechado. Isso garante que os recursos do sistema operacional (como memória e processador) 
+    associados ao arquivo sejam liberados corretamente.
+"""
