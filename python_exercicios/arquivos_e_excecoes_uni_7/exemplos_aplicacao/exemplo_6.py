@@ -9,5 +9,4 @@ with open("pessoa.json", "r", encoding="utf-8") as arquivo: # Como temos que ler
 print(dados_lidos) #Finalmente, mostramos o conteúdo do arquivo lido (que agora é um dicionário) com o print(). Perceba que alguns comportamentos se repetem: o bloco de leitura do arquivo com o with, 
                    # e a abertura do arquivo em modo de leitura (“r”).
 
-
 # A função load() carrega o conteúdo do arquivo JSON e converte-o em uma estrutura de dados Python, como um dicionário ou uma lista, dependendo do conteúdo do arquivo JSON.'
