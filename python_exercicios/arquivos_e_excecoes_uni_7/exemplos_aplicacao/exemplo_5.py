@@ -29,5 +29,4 @@ Contexto: o código de caracteres ASCII era usado nos primeiros dias da Computa�
 
 Ainda que isto funcionasse bem para quem trabalhasse somente com dados em inglês, ele não é compatível com todos os alfabetos e símbolos especiais do mundo. Por isso, hoje é normal usarmos outro código mais amplo: o UTF-8 (Unicode). 
 Ele é adequado para aplicações multilíngues e internacionais. Os emojis fazem também parte do UTF-8.
-
 """
