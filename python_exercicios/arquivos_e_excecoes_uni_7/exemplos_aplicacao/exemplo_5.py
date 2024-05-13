@@ -26,7 +26,6 @@ with open("pessoa.json", "w", encoding="utf-8") as arquivo: # abrindo um arquivo
 
 """ 
 Contexto: o código de caracteres ASCII era usado nos primeiros dias da Computação para mapear os caracteres em computadores. Ele possui 128 caracteres, incluindo letras maiúsculas e minúsculas, números e símbolos de pontuação.
-
 Ainda que isto funcionasse bem para quem trabalhasse somente com dados em inglês, ele não é compatível com todos os alfabetos e símbolos especiais do mundo. Por isso, hoje é normal usarmos outro código mais amplo: o UTF-8 (Unicode). 
 Ele é adequado para aplicações multilíngues e internacionais. Os emojis fazem também parte do UTF-8.
 """
