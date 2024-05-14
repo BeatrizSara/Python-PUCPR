@@ -10,7 +10,6 @@ Objetos: são delimitados por chaves {} e consistem em uma coleção não ordena
 Arrays: são delimitados por colchetes [] e podem conter uma lista ordenada de valores. Os valores em um array podem ser de qualquer tipo válido do JSON, incluindo strings, números e outros arrays. Os elementos do array são separados por vírgulas.
 Veja só um exemplo:
 """
-
 {
     "nome": "João",
     "idade": 25,
