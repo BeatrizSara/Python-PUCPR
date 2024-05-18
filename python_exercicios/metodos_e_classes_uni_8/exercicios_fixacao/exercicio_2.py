@@ -1,6 +1,7 @@
 """ 
 Exercício de fixação 2: Crie uma classe de cartas de baralho com o nome de Carta. 
-Ao imprimir a carta, deve ser mostrada uma carta de 1 a 10 ou figuras (dama, valete ou rei) e um naipe (ouros, espadas, copas ou paus).
+Ao imprimir a carta, deve ser mostrada uma carta de 1 a 10 ou figuras (dama, valete ou rei) 
+e um naipe (ouros, espadas, copas ou paus).
 """
 import random
 
