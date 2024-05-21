@@ -2,7 +2,6 @@
 Desafio
 
 Exercício de fixação 5:
-
 Crie uma classe Bomba que simule uma bomba de combustíveis de um posto. 
 A bomba pode injetar dois tipos de combustível: gasolina ou álcool, podendo definir no construtor da classe a quantidade e o valor do litro de cada um. Deve possuir os seguintes métodos:
 
