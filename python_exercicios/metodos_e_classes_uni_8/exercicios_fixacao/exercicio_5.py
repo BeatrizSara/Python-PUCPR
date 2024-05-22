@@ -4,7 +4,6 @@ Desafio
 Exercício de fixação 5:
 Crie uma classe Bomba que simule uma bomba de combustíveis de um posto. 
 A bomba pode injetar dois tipos de combustível: gasolina ou álcool, podendo definir no construtor da classe a quantidade e o valor do litro de cada um. Deve possuir os seguintes métodos:
-
 A)abastecer_valor(valor, tipo_combustivel), que mostra quantos litros foram colocados no veículo.
 B)abastecer_litros(litros, tipo_combustivel), que mostra o valor no abastecimento.
 C)fechar(), que mostra ao final do dia quanto foi ganho no valor total da bomba e quanto sobrou de cada tipo de combustível.
