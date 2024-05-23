@@ -2,7 +2,6 @@
 Exercício de fixação 4:
 
 Crie uma classe Carro com as seguintes funcionalidades:
-
 Um veículo tem certo consumo de combustível (medido em km/l) e certa quantidade de combustível no tanque.
 O consumo é especificado no construtor e o nível de combustível inicial é 0.
 Forneça um método abastecer(), que abasteça o carro com o valor passado de litros de combustível.
