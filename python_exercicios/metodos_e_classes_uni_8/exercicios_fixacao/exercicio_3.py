@@ -3,7 +3,6 @@ Exercício de fixação 3: Crie uma classe Baralho que possua um vetor com cada 
 A classe deve possuir um método sortear, que retorne uma das cartas. Essa carta não pode mais ser retornada. 
 O baralho deve possuir, ainda, dois coringas. Ao retornar todas as 54 cartas, deve informar que as cartas acabaram.
 """
-
 import random
 
 class Baralho:
