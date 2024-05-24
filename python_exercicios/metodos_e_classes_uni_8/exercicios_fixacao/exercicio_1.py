@@ -4,7 +4,6 @@ Exercício de fixação 1: Crie uma classe Televisao (sem acento), em que o usu�
 O limite de canais válidos vai de 1 a 15 e o limite de volume válido vai de 0 a 10. 
 No caso de um canal inválido, deve ser definido como padrão o canal 1.
 """
-
 class Televisao:
  
     def __init__(self):
