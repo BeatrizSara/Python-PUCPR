@@ -1,7 +1,6 @@
 """ 
 Exemplo: a implementação inicial da classe Cliente:
 """
-
 # Classe Cliente
  
 class Cliente:
