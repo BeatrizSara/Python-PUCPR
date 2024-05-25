@@ -3,7 +3,7 @@ Exemplo de aplicação 2: Elabore uma classe que simule um dado de jogo. No cons
 Ao final, deve testar a classe e todos os seus métodos.
 """
 import random
- 
+
 class Dado:
     def __init__(self, faces=6):
         self.__faces = faces if faces > 2 else 6
