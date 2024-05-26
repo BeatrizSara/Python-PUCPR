@@ -7,7 +7,6 @@ n x 2 = 2n
 ...
 n x 10 = 10n
 """
-
 numero = int(input("Qual tabuada você deseja? "))
 print("Tabuada do {}".format(numero))
 
