@@ -2,7 +2,6 @@
 Exemplo de aplicação 9: Elabore um programa que solicite um número inteiro ao usuário, 
 em um intervalo entre 1 e 5.
 """
-
 while True:
     
     try:
