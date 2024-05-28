@@ -10,5 +10,4 @@ for i in range(10):
         print(i)
         
 #Esses comandos são úteis para controlar o comportamento de loops em situações específicas, 
-# como interromper um loop prematuramente, 
-# pular iterações ou indicar blocos vazios de código.
+# como interromper um loop prematuramente, pular iterações ou indicar blocos vazios de código.
