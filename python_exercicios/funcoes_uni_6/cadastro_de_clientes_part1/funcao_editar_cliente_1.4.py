@@ -5,7 +5,6 @@ Esta é uma função com parâmetros e com retorno. O código define uma funçã
 que aceita uma lista de clientes como argumento. 
 O objetivo da função é permitir que o usuário altere o nome de um cliente existente na lista.
 """
-
 def editar_cliente(clientes):
     nome_antigo = input("Insira o nome do cliente a ser editado: ")
     if nome_antigo in clientes:   
