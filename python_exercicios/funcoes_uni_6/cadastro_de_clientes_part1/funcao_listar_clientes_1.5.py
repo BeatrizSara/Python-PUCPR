@@ -5,7 +5,6 @@ Esta é uma função com parâmetros e sem retorno (o return None é a mesma coi
 O código define uma função chamada listar_clientes que aceita uma lista de clientes como argumento. 
 O objetivo da função é imprimir os nomes de todos os clientes presentes na lista.
 """
-
 def listar_clientes(clientes):
     print("Lista de clientes:")
 
