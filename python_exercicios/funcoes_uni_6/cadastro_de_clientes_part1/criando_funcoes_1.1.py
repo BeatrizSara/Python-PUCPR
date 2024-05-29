@@ -9,7 +9,6 @@ funcionalidades abaixo - logo, criaremos cinco funções:
 3. Funcionalidade para editar clientes;
 4. Funcionalidade para listar clientes;
 5. Funcionalidade para pesquisar clientes.
-
 O código final ficará assim:
 """
 def menu():
