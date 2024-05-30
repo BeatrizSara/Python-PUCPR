@@ -7,10 +7,6 @@ pesquisar_clientes que recebe dois argumentos: uma lista chamada clientes e uma 
 A função pesquisar_clientes procura pelo valor da variável nome dentro da lista clientes. 
 Se encontrar, retorna True, senão retorna False.
 """
-
-
-
-
 # Vamos analisar linha a linha:
 
 # def pesquisar_clientes(clientes, nome): Isto define a função pesquisar_clientes que aceita dois argumentos: clientes (que é uma lista) e nome (que é uma string).
