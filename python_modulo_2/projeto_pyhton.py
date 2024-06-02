@@ -28,7 +28,7 @@ while ingressos_vendidos < capacidade_maxima:
     total_a_pagar = 0
     for _ in range(quantidade):
         total_a_pagar += calcular_preco(tipo)
-        
+
     if total_a_pagar > 0:
         print(f"Total a pagar: R${total_a_pagar}")
         confirmacao = input("Deseja confirmar sua compra? (sim/nao)")
